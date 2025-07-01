@@ -32,5 +32,5 @@
 - In the demo video, I tested on two iPhones running iOS 18 with DLE support. The maximum bandwidth per data packet that can be sent is 512 bytes.
 - Transferring a 1MB file takes about 2 minutes and 13 seconds.
 
-### 5. Video Demo
+### 5. Demo Video
 [https://drive.google.com/file/d/1RQbUlUsf8GCu4hX7eJFDiLv4ANbYpB7V/view?usp=sharing](https://drive.google.com/file/d/1RQbUlUsf8GCu4hX7eJFDiLv4ANbYpB7V/view?usp=sharing)
