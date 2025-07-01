@@ -1,8 +1,8 @@
 # BLETransfer
 
 ### 1. How to build
- - Open the project file `BLETransfer.xcodeproj` using Xode
- - both iPhones to the computer via cable and make sure `Developer Mode` is enabled on each device ([Follow this intruction](https://developer.apple.com/documentation/xcode/enabling-developer-mode-on-a-device))
+ - Open the project file `BLETransfer.xcodeproj` using `Xode`
+ - Connect both iPhones to the computer via cable and make sure `Developer Mode` is enabled on each device ([Follow this intruction](https://developer.apple.com/documentation/xcode/enabling-developer-mode-on-a-device))
  - Select the target device to run the app by choosing it from the top bar.
   ![image](https://github.com/nwanvu93/BLETransfer/blob/main/assets/select-device.png?raw=true)
  - press `Command + R` to build and run.
